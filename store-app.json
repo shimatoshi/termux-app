@@ -1,0 +1,13 @@
+{
+  "id": "termux-app",
+  "type": "apk",
+  "app": {
+    "name": "Termux（自作ビルド）",
+    "icon": "⌨️",
+    "description": "カスタマイズしたTermux Androidターミナル",
+    "category": "入力・システム"
+  },
+  "build": {
+    "recipe": "termux"
+  }
+}
